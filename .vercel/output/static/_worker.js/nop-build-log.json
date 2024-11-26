@@ -1,0 +1,45 @@
+{
+  "timestamp": 1732603508890,
+  "outputDir": ".vercel/output/static/_worker.js",
+  "versions": {
+    "@cloudflare/next-on-pages": "1.13.5"
+  },
+  "buildFiles": {
+    "functions": {
+      "invalid": [],
+      "middleware": [],
+      "edge": [],
+      "prerendered": [],
+      "ignored": []
+    },
+    "staticAssets": [
+      "/404.html",
+      "/500.html",
+      "/_next/data/wMxkZA9XHWfAkGpY5jwHW/index.json",
+      "/_next/data/wMxkZA9XHWfAkGpY5jwHW/posts/1.json",
+      "/_next/data/wMxkZA9XHWfAkGpY5jwHW/posts/2.json",
+      "/_next/data/wMxkZA9XHWfAkGpY5jwHW/posts/3.json",
+      "/_next/static/chunks/664-41844e7ff48658f9.js",
+      "/_next/static/chunks/framework-e70c6273bfe3f237.js",
+      "/_next/static/chunks/main-f65e66e62fc5ca80.js",
+      "/_next/static/chunks/pages/_app-02d0f4839caa4a8e.js",
+      "/_next/static/chunks/pages/_error-635a6533d6ac3ca1.js",
+      "/_next/static/chunks/pages/index-3038e7422204e956.js",
+      "/_next/static/chunks/pages/posts/[id]-e85d5dd066755c91.js",
+      "/_next/static/chunks/polyfills-5cd94c89d3acac5f.js",
+      "/_next/static/chunks/webpack-69bfa6990bb9e155.js",
+      "/_next/static/wMxkZA9XHWfAkGpY5jwHW/_buildManifest.js",
+      "/_next/static/wMxkZA9XHWfAkGpY5jwHW/_middlewareManifest.js",
+      "/_next/static/wMxkZA9XHWfAkGpY5jwHW/_ssgManifest.js",
+      "/index.html",
+      "/posts/1.html",
+      "/posts/2.html",
+      "/posts/3.html"
+    ],
+    "identifiers": {
+      "wasm": {},
+      "manifest": {},
+      "webpack": {}
+    }
+  }
+}
